@@ -1,0 +1,23 @@
+.col-sm-3.shipping {
+    box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.2);
+  }
+h3.totalCart{
+float: right;
+font-weight: bold;
+color: #fc4444;
+}
+
+.shopping li{
+    font-style: italic;
+    padding: 0.5em;
+    margin-top: 0.5em;
+    font-weight: bold;
+}
+ul.shopping {
+    /* box-shadow: 4px 5px 1px 1px #dededf; */
+    /* border: 1px solid black; */
+}
+
+.shopping label{
+    padding: 0.2em;
+}
